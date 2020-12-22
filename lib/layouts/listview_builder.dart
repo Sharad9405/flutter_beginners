@@ -5,8 +5,8 @@ import 'dart:convert';
 import 'dart:io';
 
 void main() => runApp(MaterialApp(
-      home: MyApp(),
-    ));
+  home: MyApp(),
+));
 
 class MyApp extends StatefulWidget {
   @override
